@@ -138,7 +138,10 @@ optional arguments:
 
 **--help**  It is used to see all the above options, from the executable.
 
-
+# Donations
+# DANA | Paypal |
+# DANA   : +6285600006369 Atas Nama Reynaldy Zanuar Ramadhan
+# Paypal : paypal.me/reynaldyzanuar
 Disclaimer
 -------
 This tool has been published educational purposes. It is intended to teach people how bad guys could track them, monitor them or obtain information from their credentials, we are not responsible for the use or the scope that someone may have through this project.
